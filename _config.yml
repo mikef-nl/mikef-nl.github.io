@@ -16,16 +16,16 @@ defaults:
     values:
       title: Mike Fennemore
 
-description: Stylish Jekyll Theme
+description: Working on automation and operations
 author:
   name: Mike Fennemore
   email: mike.fennemore@sentia.com
   github: mikef-nl
-  twitter: mikef.nl
-  pinterest: asd123
-  linkedin: asd123
+  twitter: mikef_nl
+  pinterest: 
+  linkedin: https://www.linkedin.com/in/mike-fennemore-58506b3a/
   bio: Working on automation and operations
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html
