@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Mike Fennemore
+      title: Just Automate It
 
 description: Working on automation and operations
 author:
