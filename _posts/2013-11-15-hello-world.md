@@ -7,10 +7,10 @@ fullview: true
 comments: true
 ---
 
-**dbyll**
+So as part of day to day work I have Ansible for configuration management. While using Ansible roles for managing machine config I realized that what was needed was a way to test them.
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
+Since GitLab is used as my source control it made sense to make use of it's CI features to automatically test roles on commits.
 
-### dbyll is on GitHub
+### The setup
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+
