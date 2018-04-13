@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: mikef-nl-github-io
 google_analytics: dbyll
-title: Mike Fennemore
+title: Just Automate It
 
 defaults:
   -
